@@ -34,6 +34,6 @@ These are credited in the site footer; keep the credits if you change the models
 
 | File | Source | Licence |
 | --- | --- | --- |
-| `models/spine.glb` | BodyParts3D, © The Database Center for Life Science (24 vertebrae with discs, ribs, sternum and cartilages, pelvis, shoulder girdle, skull). Converted, simplified and compressed; each vertebra is a separate part pivoting at its vertebral body. | CC BY-SA 2.1 JP: the adapted file is shared under the same licence |
+| `models/spine.glb` | BodyParts3D, © The Database Center for Life Science (24 vertebrae with discs, ribs, sternum and cartilages, pelvis, shoulder girdle, skull). Converted, simplified and compressed; each vertebra and each rib is a separate part pivoting at its vertebral body. | CC BY-SA 2.1 JP: the adapted file is shared under the same licence |
 | `models/head.glb` | "Infinite" 3D head scan by Lee Perry-Smith (from the three.js examples) | CC BY 3.0 |
-| `models/figure.glb` | X Bot by Mixamo (from the three.js examples) | Mixamo terms: free to use in projects |
+| `models/person.glb` | “Michelle” by Mixamo (from the three.js examples); textures, animations, hair and head removed. Both figures wear the head scan from `models/head.glb` | Mixamo terms: free to use in projects |
